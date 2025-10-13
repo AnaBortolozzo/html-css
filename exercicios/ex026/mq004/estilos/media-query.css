@@ -24,7 +24,6 @@
         font-family: 'Courier New', Courier, monospace;
         text-shadow: none;
         color: black;
-
     }
 
         img#phone {
@@ -67,7 +66,6 @@
     img#tv {
         display: none;
     }
-}
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
         body {
